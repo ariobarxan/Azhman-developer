@@ -18,5 +18,5 @@
 
 ## Connect with me 
 
-[<img alt="alt_text" width="100px" src="https://cdn.freebiesupply.com/images/large/2x/medium-icon-white-on-black.png" />](https://medium.com/@azhman.developer)
+[<img alt="alt_text" width="100px" src="https://cdn.freebiesupply.com/images/large/2x/medium-icon-white-on-black.png" />](https://medium.com/@Ariobarxan)
 [<img alt="alt_text" width="70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/1200px-Instagram_logo_2022.svg.png" />](instagram.com/azhman.zare/)
